@@ -1,0 +1,44 @@
+.header {
+    background-image: url("./Photos/pattern.jpeg");
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#Brush {
+    background-color: MediumSpringGreen;
+}
+
+#Frames {
+    background-color: lightcoral;
+}
+
+#Paint {
+    background-color: skyblue;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+    display:block;
+}
+
+.citation {
+    font-family: Helvetica;
+}
+
+.external-link {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
